@@ -10,7 +10,7 @@ body {background-color: #b1c7ce;}
  p1{color: #170402;}
  p2{color: #48050c}
  p3{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px;}
-p3{position: relative; left: 560px; height: 150px;}
+p3{position: relative; left: 700px; height: 150px;}
 .center {
   display: block;
   margin-left: auto;
@@ -27,7 +27,7 @@ p8{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-
 p10{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 15px}
 p10{color: #4d000f;}
 p11{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 25px;}
-p11{position: relative; left: 430px; height: 150px;}
+p11{position: relative; left: 540px; height: 150px;}
 .center {
   display: block;
   margin-left: auto;
